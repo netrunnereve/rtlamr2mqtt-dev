@@ -1,3 +1,7 @@
+This is my personal fork of rtlamr2mqtt that takes in unreleased fixes from the dev branch and PRs. It works for me and might work for you as well!
+
+---
+
 ### RTLAMR2MQTT
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/allangood/rtlamr2mqtt)
